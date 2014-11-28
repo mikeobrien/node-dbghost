@@ -1,0 +1,49 @@
+{
+  "name": "dbghost",
+  "version": "0.1.5",
+  "description": "Node wrapper for DB Ghost.",
+  "homepage": "https://github.com/mikeobrien/node-dbghost",
+  "main": "src/dbghost.js",
+  "bugs": {
+    "url": "https://github.com/mikeobrien/node-dbghost"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mikeobrien/node-dbghost.git"
+  },
+  "keywords": [
+    "db ghost",
+    "database",
+    "migration",
+    "windows"
+  ],
+  "scripts": {
+    "test": "gulp"
+  },
+  "author": "Mike O'Brien",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "files": [
+    "src/*.js",
+    "README.md",
+    "LICENSE"
+  ],
+  "devDependencies": {
+    "cases": "^0.1.1",
+    "chai": "~1.10.0",
+    "chai-xml": "^0.2.0",
+    "gulp": "~3.8.10",
+    "gulp-jshint": "~1.9.0",
+    "gulp-mocha": "~1.1.1",
+    "gutil": "^1.5.5",
+    "xmldom": "^0.1.19",
+    "xpath": "0.0.8"
+  },
+  "dependencies": {
+    "lodash": "^2.4.1",
+    "q": "^1.1.1",
+    "temp": "^0.8.1",
+    "underscore.string": "^2.4.0",
+    "xmlpoke": "^0.1.9"
+  }
+}
