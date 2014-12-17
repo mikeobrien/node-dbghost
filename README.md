@@ -1,6 +1,6 @@
 # dbghost
 
-[![npm version](http://img.shields.io/npm/v/dbghost.svg)](https://npmjs.org/package/dbghost) [![build status](http://img.shields.io/travis/mikeobrien/node-dbghost.svg)](https://travis-ci.org/mikeobrien/node-dbghost) [![Dependency Status](http://img.shields.io/david/mikeobrien/node-dbghost.svg)](https://david-dm.org/mikeobrien/node-dbghost) [![npm downloads](http://img.shields.io/npm/dm/dbghost.svg)](https://npmjs.org/package/dbghost)
+[![npm version](http://img.shields.io/npm/v/dbghost.svg?style=flat)](https://npmjs.org/package/dbghost) [![build status](http://img.shields.io/travis/mikeobrien/node-dbghost.svg?style=flat)](https://travis-ci.org/mikeobrien/node-dbghost) [![Dependency Status](http://img.shields.io/david/mikeobrien/node-dbghost.svg?style=flat)](https://david-dm.org/mikeobrien/node-dbghost) [![npm downloads](http://img.shields.io/npm/dm/dbghost.svg?style=flat)](https://npmjs.org/package/dbghost)
 
 Node wrapper for [DB Ghost](http://www.innovartis.co.uk/).
 
