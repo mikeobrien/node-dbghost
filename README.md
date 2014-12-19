@@ -86,7 +86,7 @@ dbghost.buildAndCompare({ ... });
 
 // Builds the source database and looks for differences and synchronizes 
 // the target database with the newly built database.
-dbghost.buildCompareaAndSync({ ... });
+dbghost.buildCompareAndSync({ ... });
 
 // Builds the source database and checks the target database for 
 // differences, creating a SQL Delta of the differences.

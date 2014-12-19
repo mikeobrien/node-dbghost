@@ -1,6 +1,6 @@
 {
   "name": "dbghost",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "Node wrapper for DB Ghost.",
   "homepage": "https://github.com/mikeobrien/node-dbghost",
   "main": "src/dbghost.js",

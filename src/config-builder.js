@@ -252,7 +252,7 @@ module.exports = function(configFile) {
             return setConfig(configFile, 'BuildDatabaseAndCompare', config); 
         },
 
-        buildCompareaAndSync: function(config) { 
+        buildCompareAndSync: function(config) { 
             return setConfig(configFile, 'BuildDatabaseAndCompareAndSynchronize', config); 
         },
 

@@ -60,7 +60,7 @@ describe('process type config', function() {
       [ 'scriptBuildCompareAndSync', 'ScriptDatabaseAndBuildDatabaseAndCompareAndSynchronize' ],
       [ 'build', 'BuildDatabase' ],
       [ 'buildAndCompare', 'BuildDatabaseAndCompare' ],
-      [ 'buildCompareaAndSync', 'BuildDatabaseAndCompareAndSynchronize' ],
+      [ 'buildCompareAndSync', 'BuildDatabaseAndCompareAndSynchronize' ],
       [ 'buildCompareAndCreateDelta', 'BuildDatabaseAndCompareAndCreateDelta' ]
     ], function (property, name) {
 

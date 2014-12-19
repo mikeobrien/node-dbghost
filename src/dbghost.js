@@ -22,7 +22,7 @@ module.exports = function(options) {
         scriptBuildCompareAndSync: function(config) { return run(config, 'scriptBuildCompareAndSync'); },
         build: function(config) { return run(config, 'build'); },
         buildAndCompare: function(config) { return run(config, 'buildAndCompare'); },
-        buildCompareaAndSync: function(config) { return run(config, 'buildCompareaAndSync'); },
+        buildCompareAndSync: function(config) { return run(config, 'buildCompareAndSync'); },
         buildCompareAndCreateDelta: function(config) { return run(config, 'buildCompareAndCreateDelta'); }
     }
 };
